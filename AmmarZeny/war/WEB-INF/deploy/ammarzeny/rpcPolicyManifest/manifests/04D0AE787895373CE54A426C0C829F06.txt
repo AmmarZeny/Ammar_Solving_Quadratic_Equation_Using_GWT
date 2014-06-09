@@ -1,0 +1,2 @@
+serviceClass: ammar.zeny.gwt.client.GreetingService
+path: D7E9D706505B1C1023FCAA272E8B534D.gwt.rpc
